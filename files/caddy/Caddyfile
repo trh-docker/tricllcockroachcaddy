@@ -1,0 +1,5 @@
+0.0.0.0:80 {
+    tls off
+    root /opt/user
+    browse 
+}
